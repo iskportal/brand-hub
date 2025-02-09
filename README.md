@@ -50,7 +50,7 @@ This folder serves as an archive of ISK’s brand history:
 
 ### **`ui-component-libraries/`**: UI Frameworks for Development
 This directory contains repositories for ISK’s UI frameworks, including:
-- **isek-ui-library (Git Submodule)**: The official UI library, providing a standardized set of components for web and mobile development.
+- **nukleus-deisgn-system (Git Submodule)**: The official UI library, providing a standardized set of components for web and mobile development.
 - **Old UI Library (Git Submodule)**: An earlier version of the UI library, for legacy purposes or reference.
 
 ### **`assets-archived/`**: Archived Assets
