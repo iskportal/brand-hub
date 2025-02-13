@@ -1,0 +1,12 @@
+{
+  "encore-settings@@encore-translucency": false,
+  "encore-settings@@encore-translucency-background": "encore-bg-dawn",
+  "encore-settings@@theme-dark": "encore-theme-dark-glass-royale",
+  "encore-settings@@encore-translucency-blur-amount": 0,
+  "encore-settings@@encore-fancy-headers": false,
+  "encore-settings@@encore-coloured-tooltip": true,
+  "encore-settings@@theme-light": "encore-theme-light-atom",
+  "encore-settings@@encore-translucency-strength": 0,
+  "encore-settings@@colors": "encore-colors-colorful",
+  "encore-settings@@encore-disable-grain": false
+}

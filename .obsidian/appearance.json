@@ -1,4 +1,10 @@
 {
-  "cssTheme": "",
-  "theme": "moonstone"
+  "cssTheme": "Encore",
+  "accentColor": "#7017ff",
+  "interfaceFontFamily": "IBM Plex Sans",
+  "textFontFamily": "IBM Plex Sans",
+  "monospaceFontFamily": "IBM Plex Mono",
+  "baseFontSizeAction": true,
+  "theme": "obsidian",
+  "baseFontSize": 18
 }

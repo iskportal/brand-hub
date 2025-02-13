@@ -1,11 +1,15 @@
 {
-  "attachmentFolderPath": "./attachments",
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Meta-Data/attachments",
+  "readableLineLength": true,
+  "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": false,
     "pageSize": "A4",
-    "landscape": true,
+    "landscape": false,
     "margin": "0",
-    "downscalePercent": 80
+    "downscalePercent": 100
   }
 }

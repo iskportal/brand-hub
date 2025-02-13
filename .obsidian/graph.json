@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Knowledge Center/Journals\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Projects/Active  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431439
+      }
+    },
+    {
+      "query": "path:Meta-Data path:Resources  ",
+      "color": {
+        "a": 1,
+        "rgb": 12895428
+      }
+    },
+    {
+      "query": "path:\"Knowledge Center\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5711266
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.508333333333333,
+  "lineSizeMultiplier": 2.4734375,
+  "collapse-forces": false,
+  "centerStrength": 0.791666666666667,
+  "repelStrength": 13.6458333333333,
+  "linkStrength": 0.583333333333333,
+  "linkDistance": 267,
+  "scale": 0.19753086419753055,
+  "close": true
+}
