@@ -1,5 +1,8 @@
+---
+sticker: lucide//languages
+---
 ![[10 - Design Language.png]]
-# We Design as Nature Innovates**
+# We Design as Nature Innovates
 
 #### **The Foundation of ISK Design Philosophy**
 
@@ -28,15 +31,15 @@ This document serves as an exploration of the core principles that govern ISK’
 
 We invite you to explore these principles and discover how **design at ISK** is guided by **nature’s wisdom**—where every element is intentional, every interaction is seamless, and every user experience is designed to facilitate **learning**, **discovery**, and **collaboration**.
 
-Welcome to the world of ISK design, where we innovate **as nature innovates**, creating a future where knowledge is accessible, timeless, and transformative.
+Welcome to the world of ISK design, where we design **as nature innovates**, creating a future where knowledge is accessible, timeless, and transformative.
 
 
 ###### Contents
-[[0 - General Covariance Principle]]
-[[1 - Least Action Principle]]
-[[2 - Goldstone Principle]]
-[[3 - Superposition Principle]]
-[[4 - Uncertainty Principle]]
-[[5 - Renormalization Principle]]
-[[6 - Information Principle]]
-[[7 - Noether Principle]]
+[[00 - General Covariance Principle]]
+[[01 - Least Action Principle]]
+[[02 - Goldstone Principle]]
+[[03 - Superposition Principle]]
+[[04 - Uncertainty Principle]]
+[[05 - Renormalization Principle]]
+[[06 - Information Principle]]
+[[07 - Noether Principle]]

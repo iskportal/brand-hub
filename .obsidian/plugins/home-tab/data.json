@@ -2,12 +2,12 @@
   "logoType": "imagePath",
   "logo": {
     "lucideIcon": "",
-    "imagePath": "0-guidelines/Images/light/9 - Valueslight.png",
+    "imagePath": "1-brand-assets/logo/png-transparent/4x/orion/4x-Orion-24.png",
     "imageLink": ""
   },
   "logoScale": 2.3,
   "iconColorType": "default",
-  "wordmark": "ISK > Brand Hub",
+  "wordmark": "> Brand Hub",
   "customFont": "monospaceFont",
   "fontSize": "4em",
   "fontColorType": "accentColor",
@@ -24,15 +24,31 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "0-guidelines/ISK Design.pdf",
-      "timestamp": 1739473734808
+      "filepath": "0-guidelines/Design Language/principles/02 - Goldstone Principle.md",
+      "timestamp": 1739567559248
+    },
+    {
+      "filepath": "0-guidelines/Design Language/principles/01 - Least Action Principle.md",
+      "timestamp": 1739567269701
+    },
+    {
+      "filepath": "0-guidelines/Design Language/principles/00 - General Covariance Principle.md",
+      "timestamp": 1739567048046
+    },
+    {
+      "filepath": "0-guidelines/Core Foundations/Introduction.md",
+      "timestamp": 1739564262543
+    },
+    {
+      "filepath": "0-guidelines/Design Language/DesignLanguage.pdf",
+      "timestamp": 1739561415803
     }
   ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
   "newTabOnStart": true,
-  "closePreviousSessionTabs": true,
+  "closePreviousSessionTabs": false,
   "omnisearch": false,
   "showOmnisearchExcerpt": true
 }
