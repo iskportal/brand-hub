@@ -90,7 +90,12 @@
     "Knowledge Center/Knowledge Center/Lecture Notes/Knowledge Center/Lecture Notes/Gradle",
     "//Meta-Data",
     "//Meta-Data/Meta-Data/attachments",
-    "//0-guidelines"
+    "//0-guidelines",
+    "//1-brand-assets",
+    "//2-visual-identity",
+    "//3-brand-in-action",
+    "//4-components/4-components/nukleus-design-system",
+    "//4-components/4-components/nukleus-design-system/4-components/nukleus-design-system/0-core"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

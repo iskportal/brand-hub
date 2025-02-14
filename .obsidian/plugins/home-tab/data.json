@@ -1,14 +1,14 @@
 {
-  "logoType": "default",
+  "logoType": "imagePath",
   "logo": {
     "lucideIcon": "",
-    "imagePath": "",
+    "imagePath": "0-guidelines/Images/light/9 - Valueslight.png",
     "imageLink": ""
   },
-  "logoScale": 1.2,
+  "logoScale": 2.3,
   "iconColorType": "default",
-  "wordmark": "Welcome to Hub",
-  "customFont": "interfaceFont",
+  "wordmark": "ISK > Brand Hub",
+  "customFont": "monospaceFont",
   "fontSize": "4em",
   "fontColorType": "accentColor",
   "fontWeight": 600,

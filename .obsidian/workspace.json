@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "799558e0f29efe58",
+        "id": "58de129766eb3622",
         "type": "tabs",
         "children": [
           {
-            "id": "15ef85b5def65cf9",
+            "id": "bba473d890698cff",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "mk-space",
               "state": {
-                "file": "0-guidelines/ISK Design.pdf"
+                "path": "4-components"
               },
-              "icon": "lucide-file-text",
-              "title": "ISK Design"
+              "icon": "lucide-file",
+              "title": "4-components"
             }
           }
         ]
@@ -198,13 +198,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-guidelines/ISK Design.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ISK Design"
+              "title": "Outline"
             }
           },
           {
@@ -244,8 +243,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "15ef85b5def65cf9",
+  "active": "bba473d890698cff",
   "lastOpenFiles": [
+    "0-guidelines/ISK Design.pdf",
     "Tags",
     "Resources/Documentation/Gradle Documentation 2025.pdf",
     "Meta-Data/attachments/Pasted image 20250211195421.png",
@@ -286,7 +286,6 @@
     "Work Management/Sprints",
     "Work Management",
     "Sandbox",
-    "ISK-Documentation",
     "Meta-Data/attachments/Pasted image 20250113163230.png",
     "Meta-Data/attachments/hassaan-here-9huphtjrROA-unsplash.jpg",
     "Meta-Data/attachments/google-deepmind-cLx-ilXp_pI-unsplash.jpg",
