@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-guidelines/Design Language/principles/02 - Goldstone Principle.md",
+                "file": "0-guidelines/Design Language/principles/06 - Information Principle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Goldstone Principle"
+              "title": "06 - Information Principle"
+            }
+          },
+          {
+            "id": "3de6f58dd572a25b",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +85,7 @@
             }
           },
           {
-            "id": "f3e48cbe52a2613e",
+            "id": "eb3ae00969012299",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -166,14 +177,34 @@
             "id": "7db3ee8a30e22c3b",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "empty",
               "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
             "id": "775a72496c5dba5c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b630db543483543c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c768f040210d8195",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -183,7 +214,7 @@
             }
           },
           {
-            "id": "b630db543483543c",
+            "id": "398ddb5eb246b0f3",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -191,8 +222,19 @@
               "icon": "feather-corner-right-down",
               "title": "Breadcrumbs Down"
             }
+          },
+          {
+            "id": "50d3c6f1a95014c3",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
+            }
           }
-        ]
+        ],
+        "currentTab": 10
       },
       {
         "id": "f4e118ac6f0a8a6b",
@@ -219,13 +261,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-guidelines/Design Language/principles/02 - Goldstone Principle.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02 - Goldstone Principle"
+              "title": "Outline"
             }
           },
           {
@@ -265,8 +306,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4653ab35ef2a6208",
+  "active": "50d3c6f1a95014c3",
   "lastOpenFiles": [
+    "0-guidelines/Design Language/principles/06 - Information Principle.md",
+    "0-guidelines/Design Language/principles/07 - Noether Principle.md",
+    "0-guidelines/Design Language/principles/05 - Renormalization Principle.md",
+    "0-guidelines/Design Language/principles/04 - Uncertainty Principle.md",
+    "0-guidelines/Design Language/principles/03 - Superposition Principle.md",
+    "0-guidelines/Design Language/principles/02 - Goldstone Principle.md",
     "0-guidelines/Design Language/principles/01 - Least Action Principle.md",
     "0-guidelines/Design Language/principles/00 - General Covariance Principle.md",
     "0-guidelines/Core Foundations/Introduction.md",
@@ -285,11 +332,8 @@
     "0-guidelines/Design Language/principles/Slides/17 - Renormalization Principlelight.png",
     "0-guidelines/Design Language/principles/Slides/19 - Noether Principlelight.png",
     "0-guidelines/Design Language/principles/Slides/20 - Sloganlight.png",
-    "0-guidelines/Design Language/principles/07 - Noether Principle.md",
     "0-guidelines/Design Language/principles/Slides/Slides.md",
     "0-guidelines/Design Language/principles/Slides",
-    "0-guidelines/Design Language/principles/03 - Superposition Principle.md",
-    "0-guidelines/Design Language/principles/02 - Goldstone Principle.md",
     "0-guidelines/Design Language/We Design as Nature Innovates.md",
     "0-guidelines/Core Foundations/CoreFoundations.pdf",
     "0-guidelines/0-guidelines.md",
@@ -302,8 +346,6 @@
     "3-brand-in-action/id/id.md",
     "3-brand-in-action/documents/documents.md",
     "3-brand-in-action/cards/cards.md",
-    "3-brand-in-action/banners/banners.md",
-    "3-brand-in-action/ads/ads.md",
     "1-brand-assets/logo/png-transparent/2x/blue/2x-Blue-17.png",
     "1-brand-assets/logo/png-transparent/2x/blue/2x-Blue-15.png",
     "1-brand-assets/logo/png-transparent/2x/blue/2x-Blue-13.png",
